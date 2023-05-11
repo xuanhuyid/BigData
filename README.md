@@ -10,5 +10,5 @@ Dữ liệu hình ảnh về khuyết tật mối hàn rất đa dạng do quá 
 <br>
 *Mô hình bài toán Phân loại mối hàn sử dụng công nghệ xử lý dữ liệu lớn. Nguồn: Tác giả tự xây dựng*-
 <br> <br>
-  **Để giải quyết những thách thức trên, Luận văn này trình bày phương pháp phân loại hình ảnh mối hàn dựa trên công nghệ xử lý dữ liệu lớn. Phương pháp này sử dụng các mô hình dữ liệu đào tạo trước để học chuyển giao (LT) và đào tạo dữ liệu bằng phương pháp huấn luyện song song phân tán dữ liệu. Nền tảng tập trung dữ liệu Apache Spark kết hợp thư viện BigDL giúp cho việc huấn luyện phát hiện khuyết tật mối hàn trở nên nhanh chóng và chính xác hơn.**
+  **Để giải quyết những thách thức trên, Tác giả này trình bày phương pháp phân loại hình ảnh mối hàn dựa trên công nghệ xử lý dữ liệu lớn. Phương pháp này sử dụng các mô hình dữ liệu đào tạo trước để học chuyển giao (LT) và đào tạo dữ liệu bằng phương pháp huấn luyện song song phân tán dữ liệu. Nền tảng tập trung dữ liệu Apache Spark kết hợp thư viện BigDL giúp cho việc huấn luyện phát hiện khuyết tật mối hàn trở nên nhanh chóng và chính xác hơn.**
   
