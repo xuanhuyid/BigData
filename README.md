@@ -1,6 +1,6 @@
 # BigData
 Tóm tắt
-  <br> 
+  <br> <space>
   Khuyết tật hàn là các lỗi được tạo ra do sai lệch về hình dáng bên ngoài, độ nặng và cấu trúc kim loại so với thiết kế trong quá trình làm việc của thợ hàn với máy hàn. Khuyết tật hàn có thể ảnh hưởng đến chất lượng và thẩm mỹ của mối hàn. Trong quá trình sản xuất và thi công thép tiền chế cho các công trình, nếu các khuyết tật mối hàn không được phát hiện sẽ gây ảnh hưởng lớn đến chất lượng và an toàn cho công trình, cũng như đe dọa tính mạng con người. Trong lĩnh vực gia công, có 2 cách kiểm tra khuyết tật mối hàn là kiểm tra phá hủy và kiểm tra không phá hủy. Kiểm tra phá hủy thường thực hiện trong các phòng thí nghiệm, trong khi kiểm tra không phá hủy thường được ưu tiên thực hiện trong quá trình sản xuất.
 <br>
   (K. Schabowicz, 2019) Có nhiều phương pháp kiểm tra không phá hủy để kiểm tra khuyết tật trong mối hàn như kiểm tra bằng sóng siêu âm (UT), kiểm tra bằng tia X (RT), kiểm tra bằng tia gamma (GT), kiểm tra bằng dòng điện xoay chiều (ET), và kiểm tra bằng phương pháp quang (VT). Hiện nay, với sự phát triển của thị giác máy tính trong các lĩnh vực y tế, an ninh, sản xuất kinh doanh, việc phân loại khuyết tật mối hàn dựa trên hình ảnh cũng có thể thực hiện bằng thị giác máy tính.
